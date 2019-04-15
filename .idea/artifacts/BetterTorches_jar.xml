@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BetterTorches:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BetterTorches_jar</output-path>
+    <root id="archive" name="BetterTorches.jar">
+      <element id="module-output" name="BetterTorches" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/server.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/spigot-api-1.12.2-R0.1-20180620.032051-149.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
